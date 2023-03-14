@@ -32,7 +32,7 @@ BCS has come up with the solutions for those two problems.
 ## Enablers:
 The changes suggested above contribute to modifying Workflow Design and Information systems.
 
-* [Workflow Design] Added sales as a new actor and additional process restructuring in Layout, Design and Verification for making the process more streamlined.
-* [Information systems] Addition of actor “Sales'' would create additional data which can be used to cost benefit analysis..
+* **[Workflow Design]** Added sales as a new actor and additional process restructuring in Layout, Design and Verification for making the process more streamlined.
+* **[Information systems]** Addition of actor “Sales'' would create additional data which can be used to cost benefit analysis..
 
 
