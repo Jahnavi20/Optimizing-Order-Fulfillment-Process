@@ -101,3 +101,5 @@ domain for each design.
 for the manufacturing of chips
 11. **Sales**: This entity contains the budget and its respective profit percentage for each order
 along with the sales employees working for each order.
+## Data Dictionary
+![image](https://user-images.githubusercontent.com/48169929/226147810-2f7d41dc-9be5-43b1-9a72-7313e158012f.png)
